@@ -4,11 +4,11 @@
 
 ## 🎯 Objective
 
-Create an Azure AI Foundry project that will host your agents and model deployments.
+Create a Microsoft AI Foundry project that will host your agents and model deployments.
 
 ## 📝 Steps
 
-### Step 1: Navigate to Azure AI Foundry
+### Step 1: Navigate to Microsoft AI Foundry
 
 1. Open your browser and go to **[https://ai.azure.com](https://ai.azure.com)**
 2. Sign in with your Azure account

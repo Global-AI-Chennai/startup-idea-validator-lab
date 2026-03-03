@@ -4,7 +4,7 @@
 
 ## 🎯 Objective
 
-Delete resources to avoid ongoing charges. Azure AI Foundry resources are billed per-use (tokens), but the underlying Azure resources (AI Services, Storage) may have minor standing charges.
+Delete resources to avoid ongoing charges. Microsoft AI Foundry resources are billed per-use (tokens), but the underlying Azure resources (AI Services, Storage) may have minor standing charges.
 
 ## ⚠️ Important
 
@@ -77,7 +77,7 @@ After cleanup:
 You've completed the **Startup Idea Validator Multi-Agent Lab**! 
 
 ### What You Built
-- ✅ A 4-agent AI pipeline using Azure AI Foundry
+- ✅ A 4-agent AI pipeline using Microsoft AI Foundry
 - ✅ An orchestrator pattern with agents-as-tools
 - ✅ A practical startup validation system
 
@@ -86,11 +86,11 @@ You've completed the **Startup Idea Validator Multi-Agent Lab**!
 - ✅ Writing effective system prompts / instructions
 - ✅ Connecting agents in multi-agent workflows
 - ✅ Testing and iterating on AI systems
-- ✅ Azure AI Foundry fundamentals
+- ✅ Microsoft AI Foundry fundamentals
 
 ### What's Next?
 - 🔗 Try building more multi-agent systems (Pizza Bot, Assignment Helper, etc.)
-- 📖 Explore [Azure AI Foundry documentation](https://learn.microsoft.com/azure/ai-foundry/)
+- 📖 Explore [Microsoft AI Foundry documentation](https://learn.microsoft.com/azure/ai-foundry/)
 - 💻 Try the [SDK approach](https://learn.microsoft.com/azure/ai-foundry/agents/) to build agents with code
 - 🚀 Enter a hackathon with your AI agent skills!
 

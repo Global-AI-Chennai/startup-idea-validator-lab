@@ -8,7 +8,7 @@ Connect the three specialist agents to the Idea Intake Agent (orchestrator) so t
 
 ## 🧠 How It Works
 
-In Azure AI Foundry, you can add **other agents as tools** to an orchestrator agent. When the orchestrator decides it needs a specialist's help, it "calls" that agent like a function — sending input and receiving output.
+In Microsoft AI Foundry, you can add **other agents as tools** to an orchestrator agent. When the orchestrator decides it needs a specialist's help, it "calls" that agent like a function — sending input and receiving output.
 
 ```
 ┌──────────────────────────────────────────────────────────┐

@@ -20,7 +20,7 @@ You need an active Azure subscription. Choose one:
 
 > 🎓 **Students:** Azure for Students gives you **$100 in credits** with just your .edu email. No credit card required!
 
-### 2. Verify Azure AI Foundry Access
+### 2. Verify Microsoft AI Foundry Access
 
 1. Open [https://ai.azure.com](https://ai.azure.com)
 2. Sign in with your Azure account
